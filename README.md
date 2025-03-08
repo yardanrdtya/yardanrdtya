@@ -1,6 +1,6 @@
 # Hi 👋, Welcome to my Github
 
-## 🚀 Hi there, I'm yardanrdtya, I'm from Samarinda, Indonesia. Information System Student, Mulawarman University.
+🚀 **Hi there, I'm yardanrdtya, I'm from Samarinda, Indonesia. Information System Student, Mulawarman University.**
 
 # 💫 About Me:
 👀 I'm interested in the profession of **Data Science and Data Analyst.** <br>🧩 I'm currently learning **Database Design, Data Analytics, and Machine Learning.** <br>💻 Studied at **Mulawarman University, Information System.**
