@@ -1,6 +1,6 @@
 # Hi 👋! I'm Yardan Raditya - An Information System Student from Indonesia who is passionate about technology.
 
-🚀 **I'm from Samarinda, Indonesia. An Information System Student at Mulawarman University.**
+🚀 **I'm from Samarinda, Indonesia. Information System Student at Mulawarman University.**
 
 # 💫 About Me:
 🧩 I'm interested in the profession of **Data Scientist and Data Analyst.** <br>📚 I'm currently learning **Database Design, Data Analytics, and exploring the fundamentals of Machine Learning.** <br>🏫 Studied at **Mulawarman University, Information System.**
