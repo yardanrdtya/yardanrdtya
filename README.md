@@ -7,7 +7,7 @@
 - 📚 I'm currently learning **Database Design, Data Analytics, and exploring the fundamentals of Machine Learning.** <br>
 - 🏛️ Studied at **Mulawarman University, Information System.**
 
-## 🌐 Socials:
+## 💬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yardanrdtya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yardanrdtya08@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://canary.discord.com/channels/@me) 
 
 # 💻 Tech Stack:
