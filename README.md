@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yardanrdtya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yardanrdtya08@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://canary.discord.com/channels/@me) 
 
 # 💻 Tech Stack:
-This is my knowladge about my Skills & Progamming Language
+This is my knowledge about my Programming Skills & Languages
 
 ## 🛢️ Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
