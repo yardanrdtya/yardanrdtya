@@ -2,6 +2,8 @@
 
 📍**I'm from Samarinda, Indonesia. Information System Student at Mulawarman University.**
 
+---
+
 # 💫 About Me:
 - 🧩 I have a passion to start a career as a **Data Analyst and Data Scientist.** <br>
 - 📚 I'm currently learning **Database Design, Data Analytics, and exploring the fundamentals of Machine Learning.** <br>
@@ -9,6 +11,8 @@
 
 ## 💬 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yardanrdtya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yardanrdtya08@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://canary.discord.com/channels/@me) 
+
+---
 
 # 💻 Tech Stack:
 This is my knowledge about my Programming Skills & Languages
@@ -54,7 +58,14 @@ This is my knowledge about my Programming Skills & Languages
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 
-<!---
-yardanrdtya/yardanrdtya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yardanrdtya&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yardanrdtya&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yardanrdtya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=yardanrdtya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
